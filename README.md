@@ -9,5 +9,5 @@ Welcome to the Python Weather app! This is the final project of the Python Tutor
 - waitress
 
 **Sources**
-🌤️ Live Weather App: https://python-weather-103z.onrender.com
-📚 Python Tutorial: https://www.youtube.com/watch?v=qwAFL1597eM&t=28174s
+- 🌤️ Live Weather App: https://python-weather-103z.onrender.com
+- 📚 Python Tutorial: https://www.youtube.com/watch?v=qwAFL1597eM&t=28174s
