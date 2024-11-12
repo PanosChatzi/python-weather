@@ -1,6 +1,6 @@
 # Python Weather App
 
-Welcome to the Python Weather app! This is the final project of the Python Tutorial for Beginners by freeCodeCamp and Dave Gray. It includes all the code to create a weather web app with Python.
+Welcome to the Python Weather app! This is the final project of the Python Tutorial for Beginners by freeCodeCamp and Dave Gray. It includes the Python, CSS and HTML code to create a weather web app.
 
 **Technologies**
 - Python
